@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 #
 # Kosmos Builder
-# Copyright (C) 2020 Nichole Mattera
+# Copyright (C) 2023 Nichole Mattera
+# edited by meltan255
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
